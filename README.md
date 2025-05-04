@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash S Nair (Kannan)</h1>
+<h1 align="center">Hi 👋, I'm Akash S Nair </h1>
 <h3 align="center">🚀 A Passionate Python Developer & Final-Year BCA Student from Kerala, India</h3>
 
 ---
