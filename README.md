@@ -4,8 +4,8 @@
 ---
 
 🔭 **Currently Working On:**
-- 🧮 [Comprehensive Financial Planner (Flask)](https://github.com/webxastra/Comprehensive-Financial-Planner)
-- 📊 [AI Business Report Analyzer](https://github.com/webxastra/AI-Business-Report-Analyzer)
+- 🧮 [Comprehensive Financial Planner (Flask)](https://github.com/webxastra/finance-app)
+- 📊 [AI Business Report Analyzer](https://github.com/webxastra/business_analyzer)
 
 🌱 **Learning & Exploring:**
 - Full Stack Development: Flask, Django, React, REST APIs
