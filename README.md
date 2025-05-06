@@ -57,7 +57,7 @@
 
 ## 🚀 Live Demo
 
-[View Portfolio Live on Netlify](https://jade-stardust-eb4022.netlify.app)
+[View Portfolio Live on Netlify](https://akash-s-nair.netlify.app/)
 
 ---
 
