@@ -55,6 +55,12 @@
 
 ---
 
+## 🚀 Live Demo
+
+[View Portfolio Live on Netlify](https://jade-stardust-eb4022.netlify.app)
+
+---
+
 ### ⚡ Fun Facts
 
 - 🎬 Avid fan of Sci-Fi & Superhero movies (Marvel/DC)
