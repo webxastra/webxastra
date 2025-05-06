@@ -1,45 +1,44 @@
-<h1 align="center">Hi 👋, I'm Akash S Nair</h1>
-<h3 align="center">🚀 A Passionate Python Developer & Final-Year BCA Student from Kerala, India</h3>
+<h1 align="center">Hi there 👋, I'm Akash S Nair</h1>
+<h3 align="center">🚀 Passionate Python Developer | Final-Year BCA Student | Tech Enthusiast from Kerala, India</h3>
 
 ---
 
-🔭 **Currently Working On**  
-• 🔧 `Comprehensive Financial Planner (Flask)`  
-• 📊 `AI Business Report Analyzer`
+🔭 **Currently Working On:**
+- 🧮 [Comprehensive Financial Planner (Flask)](https://github.com/webxastra/Comprehensive-Financial-Planner)
+- 📊 [AI Business Report Analyzer](https://github.com/webxastra/AI-Business-Report-Analyzer)
 
-🌱 **Learning Goals**  
-• 🧑‍💻 Full Stack Python: Flask, Django, React, REST APIs  
-• ⚙️ DevOps Essentials: Git, Docker, Deployment
+🌱 **Learning & Exploring:**
+- Full Stack Development: Flask, Django, React, REST APIs
+- DevOps Essentials: Git, Docker, CI/CD Pipelines
 
-👯 **Open to Collaborate On**  
-• Python scripting & Flask-based apps  
-• Automation tools & AI-integrated solutions
+👯 **Open to Collaborate On:**
+- Python scripting and automation
+- Flask web applications
+- AI-integrated tools and solutions
 
-🤝 **Looking for Help With**  
-• Dockerizing Python projects  
-• GitHub workflows & best practices
+🤝 **Looking for Guidance In:**
+- Dockerizing projects
+- Best practices for GitHub workflows
 
-💬 **Ask Me About**  
-• Python, Flask, SQL, Excel Automation  
-• Using AI tools for coding & productivity
+💬 **Ask Me About:**
+- Python, Flask, SQL
+- AI tools and Excel automation
 
-📫 **Reach Me At**  
-📧 [akash.bmrskr@gmail.com](mailto:akash.bmrskr@gmail.com)
-
-🔗 **LinkedIn**  
-🌐 [linkedin.com/in/aakash-s-nair](https://www.linkedin.com/in/aakash-s-nair)
+📫 **Connect with Me:**
+- 📧 [akash.bmrskr@gmail.com](mailto:akash.bmrskr@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aakash-s-nair)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -58,9 +57,9 @@
 
 ### ⚡ Fun Facts
 
-- 🎬 Huge fan of **Sci-Fi & Superhero movies** (Marvel/DC)
-- 🧠 Enjoy building real-world tools through **hands-on learning**
-- 💡 Favorite motto: _"Never give up. Your grind will pay off."_
+- 🎬 Avid fan of Sci-Fi & Superhero movies (Marvel/DC)
+- 🧠 Thrive on hands-on learning through real-world projects
+- 💡 Motto: _"Never give up. Your grind will pay off."_
 
 ---
 
